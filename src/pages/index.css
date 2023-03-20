@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700");
+
+:root {
+    --black: #000000;
+    --biscay: #13315c;
+    --polo-blue: #8da9ca;
+    --panache: #eef4ed;
+    --white: #FFF;
+
+    --font-size-s: 18.8px;
+    --font-size-m: 19px;
+    --font-size-l: 22.5px;
+    --font-size-xl: 60px;
+
+    --font-family-montserrat: "Montserrat";
+}

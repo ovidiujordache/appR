@@ -1,0 +1,67 @@
+{
+  "name": "gtsapp2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gtsapp2",
+  "author": "ovidiujordache",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mdx-js/react": "^2.3.0",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.11",
+    "@mui/x-data-grid": "^6.0.1",
+    "@reach/router": "^1.3.4",
+    "babel-plugin-styled-components": "^2.0.7",
+    "dotenv": "^16.0.3",
+    "gatsby": "^5.6.0",
+    "gatsby-plugin-google-gtag": "^5.6.0",
+    "gatsby-plugin-image": "^3.6.0",
+    "gatsby-plugin-manifest": "^5.6.0",
+    "gatsby-plugin-mdx": "^5.6.0",
+    "gatsby-plugin-sharp": "^5.6.0",
+    "gatsby-plugin-sitemap": "^6.6.0",
+    "gatsby-plugin-styled-components": "^6.6.0",
+    "gatsby-source-contentful": "^8.6.0",
+    "gatsby-source-filesystem": "^5.6.0",
+    "gatsby-transformer-remark": "^6.6.0",
+    "gatsby-transformer-sharp": "^5.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.9.0",
+    "realm-web": "^2.0.0",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
