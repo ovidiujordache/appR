@@ -49,6 +49,7 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
+    "gatsby-plugin-netlify": "^5.1.0",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
   },

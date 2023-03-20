@@ -9,7 +9,9 @@ module.exports = {
         title: `gtsapp1`,
         siteUrl: `https://www.yourdomain.tld`
     },
-    plugins: ["gatsby-plugin-styled-components",
+    plugins: [
+        "gatsby-plugin-netlify",
+        "gatsby-plugin-styled-components",
         "gatsby-plugin-image",
         "gatsby-plugin-sitemap", {
             resolve: 'gatsby-plugin-manifest',
